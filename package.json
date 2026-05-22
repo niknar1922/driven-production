@@ -1,5 +1,5 @@
 {
-  "name": "@workspace/driven-fundraising",
+  "name": "driven-fundraising",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -9,13 +9,13 @@
     "typecheck": "tsc -p tsconfig.json --noEmit"
   },
   "devDependencies": {
-    "@types/node": "catalog:",
-    "@types/react": "catalog:",
-    "@types/react-dom": "catalog:",
-    "@vitejs/plugin-react": "catalog:",
-    "react": "catalog:",
-    "react-dom": "catalog:",
+    "@types/node": "^25.3.5",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.1.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
     "typescript": "^5.8.3",
-    "vite": "catalog:"
+    "vite": "^7.3.2"
   }
 }
