@@ -1,7 +1,0 @@
-name = "driven-fundraising"
-compatibility_date = "2024-01-01"
-pages_build_output_dir = "dist"
-
-[vars]
-VITE_REP_SLUG = "driven"
-VITE_SSG_API_URL = "https://app.schoolsolutionsglobal.com"
